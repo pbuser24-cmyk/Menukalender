@@ -1,1 +1,19 @@
-
+[
+  {
+    "title": "Mediterrane Linsen-Bowl",
+    "description": "Leichtes Sommergericht mit viel Protein und ideal für Meal Prep.",
+    "time": "35 Minuten",
+    "protein": "Proteinreich",
+    "season": "☀️ Sommer",
+    "ingredients": [
+      "Linsen",
+      "Zucchetti",
+      "Cherrytomaten",
+      "Feta",
+      "Zitrone",
+      "Olivenöl"
+    ],
+    "url": "https://migusto.migros.ch/",
+    "image": "assets/images/linsen-bowl.jpg"
+  }
+]

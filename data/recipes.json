@@ -1,19 +1,53 @@
 [
   {
-    "title": "Mediterrane Linsen-Bowl",
-    "description": "Leichtes Sommergericht mit viel Protein und ideal für Meal Prep.",
-    "time": "35 Minuten",
-    "protein": "Proteinreich",
-    "season": "☀️ Sommer",
+    "id": 1,
+    "title": "One-Pot-Pasta mit Gemüse und Bohnen",
+    "source": "Migusto",
+    "url": "https://migusto.migros.ch/de/rezepte/one-pot-pasta-mit-gemuese-und-bohnen",
+    "category": "Pasta",
+    "season": ["Sommer", "Herbst"],
+    "time": 25,
+    "difficulty": "Einfach",
+    "vegetarian": true,
+    "meatOptional": true,
+    "mealPrep": true,
+    "protein": true,
+    "budget": true,
     "ingredients": [
-      "Linsen",
-      "Zucchetti",
+      "Penne",
+      "Weisse Bohnen",
+      "Suppengemüse",
       "Cherrytomaten",
-      "Feta",
-      "Zitrone",
-      "Olivenöl"
+      "Knoblauch",
+      "Basilikum",
+      "Parmesan"
     ],
-    "url": "https://migusto.migros.ch/",
-    "image": "assets/images/linsen-bowl.jpg"
+    "description": "Schnelle One-Pot-Pasta mit viel Gemüse und Bohnen.",
+    "image": "assets/images/one-pot-bohnen.jpg"
+  },
+  {
+    "id": 2,
+    "title": "One-Pot-Pasta mit Zucchetti, Erbsen und Spinat",
+    "source": "Migusto",
+    "url": "https://migusto.migros.ch/de/rezepte/one-pot-pasta-mit-zucchetti-erbsen-und-spinat",
+    "category": "Pasta",
+    "season": ["Sommer"],
+    "time": 30,
+    "difficulty": "Einfach",
+    "vegetarian": true,
+    "meatOptional": false,
+    "mealPrep": true,
+    "protein": true,
+    "budget": true,
+    "ingredients": [
+      "Orecchiette",
+      "Zucchetti",
+      "Erbsen",
+      "Spinat",
+      "Grüne Bohnen",
+      "Frühlingszwiebeln"
+    ],
+    "description": "Leichte Sommerpasta mit viel Gemüse.",
+    "image": "assets/images/one-pot-zucchetti.jpg"
   }
 ]
